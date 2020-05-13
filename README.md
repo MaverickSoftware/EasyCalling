@@ -1,10 +1,37 @@
 # EasyCalling
 EasyCalling is the tool for termux user to make a call easily from termux. 
 ### Installation Guide
-''' 1) pkg update && pkg upgrade
-''' 2) git clone https://github.com/MaverickSoftware/EasyCalling
-''' 3) cd Easycalling
-''' 5)nbash setup
-#### To Run
+
+```Step1) 
+pkg update && pkg upgrade 
+
+```Step2) 
+git clone https://github.com/MaverickSoftware/EasyCalling
+
+```
+
+```
+```Step3) 
+cd EasyCalling
+
+```
+
+```Step4) 
+bash setup
+
+```
+### To Run
 just type following command in terminal.
 call
+
+### Contact Me
+
+Tweeter: @Softwares Maverick
+
+Facebook : Softwares Maverick
+
+Instagram: #max_maverick_
+##### Join my channel
+# Telegram Tech Maverick
+
+https://t.me/tecmaverick
