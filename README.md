@@ -19,8 +19,9 @@ bash setup
 ```
 ### To Run
 just type following command in terminal.
+```
 call
-
+```
 ### Contact Me
 
 Tweeter: @Softwares Maverick
