@@ -22,6 +22,11 @@ just type following command in terminal.
 ```
 call
 ```
+## To Uninstall
+just type following command in terminal.
+```
+bash uninstall
+```
 ### Contact Me
 
 Tweeter: @Softwares Maverick
@@ -31,5 +36,10 @@ Facebook : Softwares Maverick
 Instagram: #max_maverick_
 ##### Join my channel
 # Telegram Tech Maverick
-
+```
 https://t.me/tecmaverick
+```
+# You Tube Tech Maverick
+```
+https://t.me/tecmaverick
+```
