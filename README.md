@@ -8,11 +8,11 @@ pkg update && pkg upgrade
 pkg install git
 ```
 ```
-git clone https://github.com/MaverickSoftware/EasyCalling
+git clone https://github.com/MaverickSoftware/Easycalling
 
 ```
 ```
-cd EasyCalling
+cd Easycalling
 ```
 ```
 bash setup
