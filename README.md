@@ -35,11 +35,11 @@ Facebook : Softwares Maverick
 
 Instagram: #max_maverick_
 ##### Join my channel
-# Telegram Tech Maverick
+# official Telegram channel Tech Maverick
 ```
 https://t.me/tecmaverick
 ```
-# You Tube Tech Maverick
+# official You Tube channel Tech Maverick
 ```
-https://t.me/tecmaverick
+https://youtu.be/NTFyyDa4IXs
 ```
