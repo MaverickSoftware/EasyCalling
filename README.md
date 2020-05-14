@@ -31,7 +31,7 @@ bash uninstall
 
 Tweeter: @Softwares Maverick
 
-Facebook : Softwares Maverick
+Gmail : techmaverick77@gmail.com
 
 Instagram: #max_maverick_
 ##### Join my channel
